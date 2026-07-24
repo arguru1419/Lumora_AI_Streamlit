@@ -171,21 +171,6 @@ http://localhost:8501
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
-### Document Upload
-
-(Add screenshot here)
-
-### Chat Interface
-
-(Add screenshot here)
-
----
 
 ## 🔮 Future Enhancements
 
