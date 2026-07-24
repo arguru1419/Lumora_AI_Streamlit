@@ -1,0 +1,37 @@
+# ==========================
+# Lumora AI
+# ==========================
+
+# UI
+streamlit>=1.37.0
+
+# LLM
+ollama>=0.3.0
+
+# AI
+faster-whisper>=1.0.3
+ctranslate2>=4.4.0
+
+# Voice
+edge-tts>=6.1.12
+sounddevice>=0.4.7
+soundfile>=0.12.1
+pygame-ce>=2.6.0
+
+# Numerical
+numpy>=1.26.4
+scipy>=1.13.1
+
+# Documents
+PyMuPDF>=1.24.7
+python-docx>=1.1.2
+
+# Data
+pandas>=2.2.2
+
+# Utilities
+requests>=2.32.3
+tqdm>=4.66.4
+
+# Environment
+python-dotenv>=1.0.1

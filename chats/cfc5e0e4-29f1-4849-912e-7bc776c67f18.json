@@ -1,0 +1,12 @@
+[
+    {
+        "role": "user",
+        "message": "What is rag",
+        "timestamp": "2026-07-24T15:43:58.499258"
+    },
+    {
+        "role": "assistant",
+        "message": "RAG stands for Retrieval-Augmented Generation. It's a technique used in Natural Language Processing (NLP) where the model retrieves relevant information from a database or knowledge base to enhance its understanding and generation capabilities.\n\nIn RAG, the input text is processed through several steps:\n\n1. **Text Segmentation**: The input text is broken down into smaller chunks called \"chunks.\"\n2. **Embedding**: Each chunk of text is then embedded using techniques like Word Embeddings.\n3. **Vector Database (VDB)**: These embeddings are stored in a vector database, which allows for efficient retrieval and comparison with other embeddings.\n\nThe model uses these embeddings to find relevant information from the VDB that can help it understand the context better. This augmented understanding is then used by the language model to generate more accurate or detailed responses.\n\nRAG improves upon traditional generation models by leveraging external knowledge bases, making the generated text more coherent and contextually appropriate.",
+        "timestamp": "2026-07-24T15:44:01.451481"
+    }
+]

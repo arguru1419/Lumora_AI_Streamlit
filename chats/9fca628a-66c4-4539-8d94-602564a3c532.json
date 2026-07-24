@@ -1,0 +1,12 @@
+[
+    {
+        "role": "user",
+        "message": "Hi",
+        "timestamp": "2026-07-24T15:43:34.203567"
+    },
+    {
+        "role": "assistant",
+        "message": "Hello! How can I assist you today?",
+        "timestamp": "2026-07-24T15:43:37.443846"
+    }
+]

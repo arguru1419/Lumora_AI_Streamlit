@@ -1,0 +1,22 @@
+[
+    {
+        "role": "user",
+        "message": "What is my Study",
+        "timestamp": "2026-07-24T15:50:21.098978"
+    },
+    {
+        "role": "assistant",
+        "message": "It seems there might be some confusion with your question. Could you please provide more context or specify what aspect of \"my study\" you would like to know about? For example, are you looking for information on how to manage a study project, studying tips, or perhaps the definition of \"study\"?",
+        "timestamp": "2026-07-24T15:50:22.526129"
+    },
+    {
+        "role": "user",
+        "message": "What is degree in my resume",
+        "timestamp": "2026-07-24T15:50:40.782730"
+    },
+    {
+        "role": "assistant",
+        "message": "When referring to your resume, mentioning a \"degree\" typically means including information about any educational qualifications you have achieved. This could include details such as the name of the university or institution where you obtained your degree, the field of study, and the year(s) in which you graduated.\n\nFor example:\n- Bachelor of Architecture from Larsen & Toubro Limited, 20XX\n\nIf you need more specific information about how to format this on a resume or additional details related to your educational background, please let me know!",
+        "timestamp": "2026-07-24T15:50:42.669390"
+    }
+]
