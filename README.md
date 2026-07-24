@@ -205,7 +205,7 @@ http://localhost:8501
 **Guru Prakash S**
 
 - GitHub: https://github.com/arguru1419
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/guru-prakash-5384063ab/
 
 ---
 
